@@ -1,0 +1,29 @@
+.enrolled {
+  float: left;
+  width: 40%;
+  /* border: 2px solid black;*/
+}
+
+.notEnrolled {
+  float: right;
+  width: 40%;
+  /*border: 2px solid black;*/
+}
+
+.notEnrolled > li {
+  border: 2px solid black;
+}
+
+.enrolled > li {
+  border: 2px solid red;
+}
+
+
+li {
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+
+
+
+

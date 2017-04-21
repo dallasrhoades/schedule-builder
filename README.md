@@ -1,0 +1,1 @@
+A simple tool for building a class schedule at University of Maryland, College Park. Built using React and Flux, this tool grabs schedule data from umd.io and allows people to create a schedule for the upcoming semester. 
